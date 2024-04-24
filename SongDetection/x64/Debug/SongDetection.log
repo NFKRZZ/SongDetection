@@ -1,0 +1,19 @@
+﻿  AudioMatcher.cpp
+C:\Users\winga\source\repos\SongDetection\SongDetection\AudioMatcher.cpp(46,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Serializer.cpp
+  Song.cpp
+  SongDetection.cpp
+C:\Users\winga\source\repos\SongDetection\SongDetection\SongDetection.cpp(56,14): warning C4930: 'Song s(void)': prototyped function not called (was a variable definition intended?)
+  loader.cpp
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(35,12): warning C4101: 'e': unreferenced local variable
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(64,13): warning C4101: 'e': unreferenced local variable
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(75,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(89,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(106,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(124,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(147,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(164,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\winga\source\repos\SongDetection\SongDetection\loader.cpp(269,8): warning C4101: 'D': unreferenced local variable
+  Generating Code...
+     Creating library C:\Users\winga\source\repos\SongDetection\x64\Debug\SongDetection.lib and object C:\Users\winga\source\repos\SongDetection\x64\Debug\SongDetection.exp
+  SongDetection.vcxproj -> C:\Users\winga\source\repos\SongDetection\x64\Debug\SongDetection.exe
